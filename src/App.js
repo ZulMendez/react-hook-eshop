@@ -10,7 +10,7 @@ function App() {
     articles: [
       {produit: "Coca Cola", prix: 1, stock: 5, image: '../../img/coca.jpg'},
       {produit: "Fanta", prix: 1.50, stock: 5, image: '../../img/fanta.jpg'},
-      {produit: "Fanta", prix: 1.50, stock: 5, image: '../../img/fanta.jpg'},
+      {produit: "Ice tea", prix: 2, stock: 5, image: '../../img/icetea.jpg'},
     ]
   });
 
